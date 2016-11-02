@@ -1,4 +1,5 @@
 ---
+path: /code-review
 title: 'Code Review'
 
 layout: nil

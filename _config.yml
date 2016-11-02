@@ -19,7 +19,7 @@ email: team@ithub.gov.ro
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sms.claudiuceia.ro" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: govithub_ro
 github_username:  gov-ithub
 

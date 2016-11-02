@@ -2,22 +2,17 @@
 layout: default
 ---
 
-<div class="home">
+<nav id='sidebar'>
+	{% include nav.html %}
+</nav>
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<section id='content'>
+{% for post in site.posts %}
+  <article class='{{ post.type }}'>
+    <a name='{{ post.url }}' href='#{{ post.url }}'><h2>{% if post.type %}<code><b>{{ post.type }}</b> {{ post.path }}</code> {% endif %}{{ post.title }}</h2></a>
+    <section class='body'>
+      {{ post.content }}
+    </section>
+  </article>
+{% endfor %}
+</section>

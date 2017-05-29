@@ -22,14 +22,14 @@ Mă bucur că citești acest document, pentru că avem nevoie de voluntari pentr
 - [Ghid de colaborare](CONTRIBUTING.md)
 - [Ghid mesaje commit (en)](COMMIT.md)
 
-Dacă vezi ceva care nu este în regulă, te rog [comunică](https://govithub.slack.com) problema, să vedem cum o rezolvăm.
+Dacă vezi ceva care nu este în regulă, te rog [comunică](https://civictechro.slack.com) problema, să vedem cum o rezolvăm.
 
-Dacă nu ai cont pe platforma de comunicare **Slack**, cere o invitație și alătură-te comunității: [![Slack Status](https://govitslack.herokuapp.com/badge.svg)](https://govitslack.herokuapp.com)
+Dacă nu ai cont pe platforma de comunicare **Slack**, cere o invitație și alătură-te comunității: [![Slack Status](https://civictech.now.sh/badge.svg)](https://civictech.now.sh/)
 
-GovITHub este construit cu ajutorul voluntarilor.
+CivicTech Romania este construit cu ajutorul voluntarilor.
 
 Mulțumim! :heart: :heart: :heart:
 
-GovITHub is supported by BrowserStack
+CivicTech Romania is supported by BrowserStack
 
 ![browserstack](https://cloud.githubusercontent.com/assets/645227/21771493/35de1cd0-d690-11e6-8a02-35360e9a2a93.png)

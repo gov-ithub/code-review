@@ -22,10 +22,6 @@ Mă bucur că citești acest document, pentru că avem nevoie de voluntari pentr
 - [Ghid de colaborare](CONTRIBUTING.md)
 - [Ghid mesaje commit (en)](COMMIT.md)
 
-Dacă vezi ceva care nu este în regulă, te rog [comunică](https://civictechro.slack.com) problema, să vedem cum o rezolvăm.
-
-Dacă nu ai cont pe platforma de comunicare **Slack**, cere o invitație și alătură-te comunității: [![Slack Status](https://civictech.now.sh/badge.svg)](https://civictech.now.sh/)
-
 CivicTech Romania este construit cu ajutorul voluntarilor.
 
 Mulțumim! :heart: :heart: :heart:

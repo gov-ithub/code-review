@@ -13,7 +13,7 @@
 
 ## Funcționalitate nouă sau modifici una existentă?
 
-- Propune modificarea pe [slack](https://govithub.slack.com) în canalul proiectului.
+- Propune modificarea pe [slack](https://civictechro.slack.com) în canalul proiectului.
 - Discută cu alți contribuitori modificarea.
 - Toate schimbările trebuie să fie într-un branch separat, nu în master.
 - Un branch ajunge în master în urma unui pull request cu cel puțin un code review.

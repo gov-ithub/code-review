@@ -17,7 +17,7 @@ Mă bucur că citești acest document, pentru că avem nevoie de voluntari pentr
 - Documentația trebuie scrisă în timpul dezvoltării, nu după.
 
 ## Alte informații
-
+- [Întrebări frecvente](FAQ.md)
 - [Code Review](CODE_REVIEW.md)
 - [Ghid de colaborare](CONTRIBUTING.md)
 - [Ghid mesaje commit (en)](COMMIT.md)

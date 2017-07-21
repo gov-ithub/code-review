@@ -22,9 +22,9 @@ TBD = Va fi detaliat in viitor
 > Ambele :). Depinde de la proiect la proiect si de la echipa la echipa. Vom reveni cu mai multe detalii.
 
 #### Ce proiecte sunt deja definite si unde pot fi accesate descrierile/caracteristicile lor?
-> Descrierea publica: https://civictech.ro/proiecte
-> Descrierea interna: https://membri.civictech.ro/projects
-> Job openings: https://membri.civictech.ro/openings
+> 1) Descrierea publica: https://civictech.ro/proiecte
+> 2) Descrierea interna: https://membri.civictech.ro/projects
+> 3) Job openings: https://membri.civictech.ro/openings
 
 
 #### Pot sa imi aleg ce task vreau?
